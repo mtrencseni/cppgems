@@ -3,7 +3,7 @@
 
 /*
 
- Based on C++ Gems Chapter 3 by Cay S. Horstmann.
+ Based on More C++ Gems Chapter 3 by Cay S. Horstmann.
  Typed up and sanified by Marton Trencseni (mtrencseni@gmail.com).
  Doesn't work with derived pointers.
  Not thread-safe.

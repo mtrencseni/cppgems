@@ -2,14 +2,14 @@
 {
 	08FB7793FE84155DC02AAC07 /* Project object */ = {
 		activeBuildConfigurationName = Debug;
-		activeExecutable = 54E1CD44153D4DD3005B396F /* CppGemsChapter1 */;
-		activeTarget = 8DD76FA90486AB0100D96B5E /* CppGemsChapter1 */;
+		activeExecutable = 548462EE1542A9DF003690D8 /* CppGemsChapter6 */;
+		activeTarget = 8DD76FA90486AB0100D96B5E /* CppGemsChapter6 */;
 		addToTargets = (
-			8DD76FA90486AB0100D96B5E /* CppGemsChapter1 */,
+			8DD76FA90486AB0100D96B5E /* CppGemsChapter6 */,
 		);
-		codeSenseManager = 54E1CD4B153D4EB4005B396F /* Code sense */;
+		codeSenseManager = 54EF57201542A99D0097BBD1 /* Code sense */;
 		executables = (
-			54E1CD44153D4DD3005B396F /* CppGemsChapter1 */,
+			548462EE1542A9DF003690D8 /* CppGemsChapter6 */,
 		);
 		perUserDictionary = {
 			PBXConfiguration.PBXFileTableDataSource3.PBXFileTableDataSource = {
@@ -17,9 +17,9 @@
 				PBXFileTableDataSourceColumnSortingKey = PBXFileDataSource_Filename_ColumnID;
 				PBXFileTableDataSourceColumnWidthsKey = (
 					20,
-					10,
+					379,
 					20,
-					48,
+					48.16259765625,
 					43,
 					43,
 					20,
@@ -34,18 +34,14 @@
 					PBXFileDataSource_Target_ColumnID,
 				);
 			};
-			PBXPerProjectTemplateStateSaveDate = 356389125;
-			PBXWorkspaceStateSaveDate = 356389125;
+			PBXPerProjectTemplateStateSaveDate = 356690395;
+			PBXWorkspaceStateSaveDate = 356690395;
 		};
-		perUserProjectItems = {
-			54EF5699153E0FD30097BBD1 /* PBXTextBookmark */ = 54EF5699153E0FD30097BBD1 /* PBXTextBookmark */;
-			54EF570D1542A9810097BBD1 /* PBXTextBookmark */ = 54EF570D1542A9810097BBD1 /* PBXTextBookmark */;
-		};
-		sourceControlManager = 54E1CD4A153D4EB4005B396F /* Source Control */;
+		sourceControlManager = 54EF571F1542A99D0097BBD1 /* Source Control */;
 		userBuildSettings = {
 		};
 	};
-	54E1CD44153D4DD3005B396F /* CppGemsChapter1 */ = {
+	548462EE1542A9DF003690D8 /* CppGemsChapter6 */ = {
 		isa = PBXExecutable;
 		activeArgIndices = (
 		);
@@ -67,12 +63,12 @@
 		executableSystemSymbolLevel = 0;
 		executableUserSymbolLevel = 0;
 		libgmallocEnabled = 0;
-		name = CppGemsChapter1;
+		name = CppGemsChapter6;
 		showTypeColumn = 0;
 		sourceDirectories = (
 		);
 	};
-	54E1CD4A153D4EB4005B396F /* Source Control */ = {
+	54EF571F1542A99D0097BBD1 /* Source Control */ = {
 		isa = PBXSourceControlManager;
 		fallbackIsa = XCSourceControlManager;
 		isSCMEnabled = 0;
@@ -82,41 +78,14 @@
 			};
 		};
 	};
-	54E1CD4B153D4EB4005B396F /* Code sense */ = {
+	54EF57201542A99D0097BBD1 /* Code sense */ = {
 		isa = PBXCodeSenseManager;
 		indexTemplatePath = "";
 	};
-	54EF5614153D718F0097BBD1 /* Main.cpp */ = {
-		uiCtxt = {
-			sepNavIntBoundsRect = "{{0, 0}, {1180, 744}}";
-			sepNavSelRange = "{95, 67}";
-			sepNavVisRange = "{0, 276}";
-		};
-	};
-	54EF5699153E0FD30097BBD1 /* PBXTextBookmark */ = {
-		isa = PBXTextBookmark;
-		fRef = 54EF5614153D718F0097BBD1 /* Main.cpp */;
-		name = "Main.cpp: 11";
-		rLen = 0;
-		rLoc = 275;
-		rType = 0;
-		vrLen = 153;
-		vrLoc = 0;
-	};
-	54EF570D1542A9810097BBD1 /* PBXTextBookmark */ = {
-		isa = PBXTextBookmark;
-		fRef = 54EF5614153D718F0097BBD1 /* Main.cpp */;
-		name = "Main.cpp: 7";
-		rLen = 67;
-		rLoc = 95;
-		rType = 0;
-		vrLen = 276;
-		vrLoc = 0;
-	};
-	8DD76FA90486AB0100D96B5E /* CppGemsChapter1 */ = {
+	8DD76FA90486AB0100D96B5E /* CppGemsChapter6 */ = {
 		activeExec = 0;
 		executables = (
-			54E1CD44153D4DD3005B396F /* CppGemsChapter1 */,
+			548462EE1542A9DF003690D8 /* CppGemsChapter6 */,
 		);
 	};
 }
